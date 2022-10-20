@@ -17,3 +17,18 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 20px 10px;
 }
+
+ul { 
+    flex-direction: row;
+    justify-content: center; 
+    color: whitesmoke;
+    font-size: 12px;
+    margin: 2px;
+    padding: 4px;
+    flex: auto;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
